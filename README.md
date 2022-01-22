@@ -5,7 +5,7 @@
 
 ## Skills : MySQL / REACT / JS / HTML / CSS
 
-[![wron1's GitHub stats](https://github-readme-stats.vercel.app/api?username=wron1&show_icons=true&theme=synthwave)](https://github.com/wron1/github-readme-stats)
+[![wron1's GitHub stats](https://github-readme-stats.vercel.app/api?username=wron1&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/wron1/github-readme-stats)
 
 ## Connect With Me
 
