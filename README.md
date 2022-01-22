@@ -3,8 +3,7 @@
 - I am a software developer with a background in music located Southern California. My language of choice is Javascript and my instrument of choice is the Oboe. MySQL for the amazing relational database handling and Buffet Crampon for one of the best composite oboes around. 
 - I am seeking to build the future and am learning daily to dive further into tech.
 
-## Skills
-Javascript/React/MySQL/HTML
+## Skills : MySQL / REACT / JS / HTML / CSS
 
 [![wron1's GitHub stats](https://github-readme-stats.vercel.app/api?username=wron1)](https://github.com/wron1/github-readme-stats)
 
