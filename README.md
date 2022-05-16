@@ -8,7 +8,7 @@
 
 [![daedadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=daedadev&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/daedadev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?daedadev=anuraghazra)](https://github.com/daedadev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daedadev)](https://github.com/daedadev/github-readme-stats)
 
 ## Connect With Me
 
