@@ -8,7 +8,7 @@
 
 [![daedadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=daedadev&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/daedadev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daedadev&layout=compact&theme=tokyonight)](https://github.com/daedadev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daedadev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/daedadev/github-readme-stats)
 
 ## Connect With Me
 
