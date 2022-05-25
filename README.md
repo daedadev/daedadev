@@ -1,5 +1,4 @@
 ### Hi There, I'm Daniel Moore
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daedadev&label=Profile%20views&color=0e75b6&style=flat" alt="Daniel Moore" /> </p>
 
 - I am a software developer with a background in music located Southern California. My language of choice is Javascript and my instrument of choice is the Oboe. MySQL for the amazing relational database handling and Buffet Crampon for one of the best composite oboes around. 
 - I am seeking to build the future and am learning daily to dive further into tech.
