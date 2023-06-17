@@ -18,11 +18,11 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+https://github-redme-stats.vercel.app/
 
+[![daedadev's GitHub stats](https://github-redme-stats.vercel.app/api?username=daedadev&show_icons=true&theme=discord_old_blurple&hide_border=true)](https://github.com/daedadev/github-readme-stats)
 
-[![daedadev's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=daedadev&show_icons=true&theme=discord_old_blurple&hide_border=true)](https://github.com/daedadev/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daedadev&layout=compact&theme=discord_old_blurple&hide_border=true)](https://github.com/daedadev/github-readme-stats)
+[![Top Langs](https://github-redme-stats.vercel.app/api/top-langs/?username=daedadev&layout=compact&theme=discord_old_blurple&hide_border=true)](https://github.com/daedadev/github-readme-stats)
 
 ## Connect With Me
 
