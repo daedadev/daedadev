@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
 </p>
 
 [![Top Langs](https://github-redme-stats.vercel.app/api/top-langs/?username=daedadev&layout=compact&theme=discord_old_blurple&hide_border=true&count-private=true)](https://github.com/daedadev/github-readme-stats)
